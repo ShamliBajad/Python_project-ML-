@@ -38,6 +38,8 @@ EDA provided an in-depth analysis of the variables, their categories, and classi
 
 The following are the key results from the models used in this project:
 
+<img width="486" alt="results" src="https://github.com/ShamliBajad/Python_project-ML-/assets/169564441/63b53a31-4d81-4c50-81db-71d3cf798967">
+
 
 These results indicate that the XGBoost model is the most suitable for this prediction task, providing accurate predictions and helping to improve patient care planning and hospital resource management.
 
